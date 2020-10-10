@@ -2,6 +2,8 @@
 
 Code snippets and supporting documentations for the **VirtualTracker** project built on Matic, Ethereum and Portis by *The Misfits* for HackTheMountains.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a28a1645-d793-48d2-a3fa-3898d78c01dd/deploy-status)](https://app.netlify.com/sites/virtualtrack/deploys)
+
 ## Instructions to run the project locally 
 1. Go into the root folder of the project, named `SupplyChain` and run `npm install`.
 2. Inside the root folder, run `truffle compile` to compile the Solidity smart contract to their JSON ABIs.
