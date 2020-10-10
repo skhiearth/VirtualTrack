@@ -1,0 +1,5 @@
+# VirtualTrack
+
+## Challenges
+
+The original plan was to incorporate the whole suite of Matic network by adding a trustless two-way transaction channel between Matic and Ethereum by introducing the cross-chain bridge with Plasma and PoS security. With this users could transfer tokens across Matic without incurring third-party risks and market liquidity limitations. However, long deposit times and especially long withdrawl times made it not feasible to implement, test and demo for the final pitch of the hackathon. As a workaround, Matic network's Mumbai Testnet is deployed on its own and users can transact in the MATIC token. For long term, we plan to implement the full suite of Matic+Ethereum in VirtualTrack depending on specific use cases that can tolerate high waiting times that come as a trade-off for this added security. 
