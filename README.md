@@ -14,8 +14,8 @@ Note: If you decide to deploy using your personal account, ensure that there are
 
 
 ## Tech Stack:
-Smart Contracts: Solidity
-Wallet Integration: Portis
-Blockchain Network: Matic and Ethereum Ropsten Test Network
-Front-end: React
-Package Manager: node.js
+* Smart Contracts: Solidity
+* Wallet Integration: Portis
+* Blockchain Network: Matic and Ethereum Ropsten Test Network
+* Front-end: React
+* Package Manager: node.js
