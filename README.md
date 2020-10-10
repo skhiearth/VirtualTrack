@@ -16,10 +16,11 @@ Note: If you decide to deploy using your personal account, ensure that there are
 
 
 ## Tech Stack:
-* Smart Contracts: Solidity
-* Wallet Integration: Portis
-* Blockchain Network: Matic and Ethereum Ropsten Test Network
-* Front-end: React
-* Package Manager: node.js
+* Smart Contracts: [Solidity](https://solidity.readthedocs.io/en/v0.7.3/)
+* Wallet Integration: [Portis](https://www.portis.io/)
+* Blockchain Network: [Matic](https://matic.network/) and [Ethereum Ropsten Test Network](https://ethereum.org/en/developers/docs/networks/)
+* Front-end: [React](https://reactjs.org/)
+* Package Manager: [npm](https://www.npmjs.com/)
 
 ![Portis](https://github.com/skhiearth/VirtualTracker/blob/main/Screenshots/4.png)
+![React and Portis](https://github.com/skhiearth/VirtualTracker/blob/main/Screenshots/5.png)
