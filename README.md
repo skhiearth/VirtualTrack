@@ -1,4 +1,4 @@
-# VirtualTracker
+# VirtualTrack
 
 Code snippets and supporting documentations for the **VirtualTracker** project built on Matic, Ethereum and Portis by *The Misfits* for HackTheMountains.
 
