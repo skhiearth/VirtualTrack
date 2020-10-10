@@ -44,7 +44,7 @@ class Main extends Component {
                     type="text"
                     ref={(input) => { this.contractNext = input }}
                     className="form-control"
-                    placeholder="Enter key of first Supply Chain partner"
+                    placeholder="Enter key of first Chain partner"
                     required />
                 </div>
                 <div className="form-group mr-sm-2">
