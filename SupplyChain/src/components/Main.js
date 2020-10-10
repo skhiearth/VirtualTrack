@@ -94,7 +94,7 @@ class Main extends Component {
                               placeholder="Enter key of next partner"
                               required />
                           </div>
-                          <button name={contract.id} type="submit" className="btn btn-primary btn-block">Mark as recieved, collect crypto and move to next patner</button>
+                          <button name={contract.id} type="submit" className="btn btn-primary btn-block">Mark as recieved, collect crypto and move to next partner</button>
                         </form>
 
 
