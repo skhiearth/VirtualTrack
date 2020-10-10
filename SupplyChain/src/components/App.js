@@ -75,10 +75,8 @@ class App extends Component {
   createContract(content, value, next, end) {
     const web3 = window.web3
 
-    this.setState({ loading: true })
     this.state.supplyChain.methods.createContract(content, next, end).send({ from: this.state.account, value: web3_utils.toWei(value, "ether") })
     .once('receipt', (receipt) => {
-      this.setState({ loading: false })
       console.log(this.state.loading)
     })
   }
