@@ -1393,12 +1393,12 @@
     "80001": {
       "events": {},
       "links": {},
-      "address": "0x0a96422276F8078f01ce0fc3e66f9875C6292Be6",
-      "transactionHash": "0x0d7601206263312d1534ed53910b2e4340e09c8140213ca79bf2cf3d9d3dec56"
+      "address": "0xABAacE0554D478d8183b52762C8710e6D4e3D094",
+      "transactionHash": "0x514f3663d034ff283a47a9f969a0914594b0cd99b8521f87049c9ca4a97e7adb"
     }
   },
   "schemaVersion": "3.3.0",
-  "updatedAt": "2020-10-10T07:34:53.843Z",
+  "updatedAt": "2020-10-10T08:11:57.727Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
