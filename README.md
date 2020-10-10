@@ -9,4 +9,5 @@ Code snippets and supporting documentations for the VirtualTracker project built
 4. After migration, run `npm start` to start the Web Application.
 
 Note: If you want to use your own Ethereum account to deploy the contracts, open the `.secret` file and enter your mnemonic. To get the mnemonic of your account, you can go to Account Settings on Metamask or Export Account on Portis.
+
 Note: If you decide to deploy using your personal account, ensure that there are enough ETH tokens in your account. You can request tokens using any of the publically available faucets for the Ropsten network.
