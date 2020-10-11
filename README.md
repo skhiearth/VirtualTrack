@@ -1,6 +1,6 @@
 # VirtualTrack
 
-Code snippets and supporting documentations for the **VirtualTrack** project built on Matic, Ethereum and Portis by *The Misfits* for HackTheMountains.
+Code snippets and supporting documentations for the **VirtualTrack** project built on Matic, Ethereum and Portis by *The Misfits* .
 
 Watch the demo video [here](https://youtu.be/_f9pnc7oJ4o).
 
